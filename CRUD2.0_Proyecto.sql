@@ -1,5 +1,5 @@
 -- CRUD 2.0 (JAVA)
--- Proyecto CRUD de Youtube
+-- Proyecto CRUD
 CREATE DATABASE PRODUCTOS_CRUD;
 USE PRODUCTOS_CRUD;
 
